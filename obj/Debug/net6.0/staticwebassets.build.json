@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "yCbX7fwl6lZtiLRRzgbf5yY0J6/RLT9ID217ADQCaI0=",
+  "Source": "FriendZone",
+  "BasePath": "_content/FriendZone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FriendZone/wwwroot",
+      "Source": "FriendZone",
+      "ContentRoot": "/Users/austindye/Documents/GitHub/FriendZone/FriendZone/FriendZone/wwwroot/",
+      "BasePath": "_content/FriendZone",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/austindye/Documents/GitHub/FriendZone/FriendZone/FriendZone/wwwroot/index.html",
+      "SourceId": "FriendZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/austindye/Documents/GitHub/FriendZone/FriendZone/FriendZone/wwwroot/",
+      "BasePath": "_content/FriendZone",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
